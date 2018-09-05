@@ -2,3 +2,7 @@
 	font-family:barcode;
 	src:url(font/BarcodeFont_1.woff)
 }
+@font-face{
+	font-family:ailerons;
+	src:url(font/Ailerons-Typeface.otf)
+}
